@@ -1,4 +1,6 @@
 Python Lab 3:
+
+
 .
 <img width="308" height="160" alt="3" src="https://github.com/user-attachments/assets/0bc0f607-1dba-4e92-b0b7-ae796f98b16f" />
 
